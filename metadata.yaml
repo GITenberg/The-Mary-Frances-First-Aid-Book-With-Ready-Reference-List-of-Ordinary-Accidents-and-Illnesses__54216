@@ -1,10 +1,13 @@
 _repo: The-Mary-Frances-First-Aid-Book-With-Ready-Reference-List-of-Ordinary-Accidents-and-Illnesses__54216
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Boyer, Jane Allen
     gutenberg_agent_id: '44041'
     url: http://www.gutenberg.org/2009/agents/44041
+covers:
+- cover_type: archival
+  image_path: 54216-h/images/cover.jpg
 creator:
   author:
     agent_name: Fryer, Jane Eayre
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '39315'
     url: http://www.gutenberg.org/2009/agents/39315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54216#The-Mary-Frances-First-Aid-Book-With-Ready-Reference-List-of-Ordinary-Accidents-and-Illnesses_
 gutenberg_issued: '2017-02-21'
 gutenberg_type: Text
 identifiers:
